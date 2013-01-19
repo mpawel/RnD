@@ -1,0 +1,3 @@
+[submodule "Android-Filechooser"]
+	path = Android-Filechooser
+	url = git@github.com:mpawel/android-filechooser.git
